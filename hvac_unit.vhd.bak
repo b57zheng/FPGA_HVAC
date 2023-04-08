@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity hvac_unit is port 
+(
+	HVAC_SIM 		:in std_logic;
+	clk				:in std_logic;
+	run				:in std_logic;
+	increase			:in std_logic;
+	decrease			:in std_logic;
+	temp				:out std_logic_vector(3 downto 0);
+	); 
+	end hvac_unit;
+	
+	ARCHITECTURE behaviour OF hvac_unit IS 
+	
