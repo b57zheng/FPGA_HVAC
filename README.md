@@ -1,4 +1,4 @@
-��#� �F�P�G�A�_�H�V�A�C
+
 Implemented FPGA data display and arithmetic logic unit with structural VHDL design
 
 Board used: the University of Waterloo LogicalStep Board housing an Altera MAX10 Field Programmable Gate Array (FPGA) chip and various peripheral components
